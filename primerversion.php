@@ -39,6 +39,12 @@
                 repositorio.”
             </p>
             
+            <p>“Los Sistemas de Control de Versiones Distribuidos (DVCS) salvan este problema.
+            Algunos ejemplos de sistemas distribuidos, aparte de Git, son Mercurial, Bazaar o
+            Darcs. En este tipo de herramientas, los clientes replican completamente el
+            repositorio.”
+            </p>
+            
         </div>
     </div>
 
