@@ -44,12 +44,7 @@
             Darcs. En este tipo de herramientas, los clientes replican completamente el
             repositorio.”
             </p>
-
-            <p>“RAMA DESARROLLO”
-            </p> 
-            <br>
-            <p>“rama desarrollo pruebas”
-            </p>            
+          
         </div>
     </div>
 
