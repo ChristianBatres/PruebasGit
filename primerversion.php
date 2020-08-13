@@ -45,6 +45,12 @@
             repositorio.”
             </p>
           
+
+          <p>
+          Herramientas de Git: submódulos
+Submódulos
+A menudo sucede que mientras trabaja en un proyecto, necesita usar otro proyecto desde dentro. Quizás sea una biblioteca que desarrolló un tercero o que está desarrollando por separado y usando en múltiples proyectos principales. Surge un problema común en estos escenarios: desea poder tratar los dos proyectos como separados y aún así poder usar uno desde dentro del otro.
+          </p>
         </div>
     </div>
 
